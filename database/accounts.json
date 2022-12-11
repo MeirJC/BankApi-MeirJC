@@ -1,0 +1,56 @@
+[
+  {
+    "id": "5pyb7tz8lberg5ic",
+    "passportId": "031234567",
+    "firstName": "israel",
+    "lastName": "israeli",
+    "balance": "0",
+    "credit": "1000",
+    "transactions": []
+  },
+  {
+    "id": "5pyb7xoolbetfdej",
+    "passportId": "123456789",
+    "firstName": "bruce",
+    "lastName": "wayne",
+    "balance": "0",
+    "credit": "100000",
+    "transactions": []
+  },
+  {
+    "id": "5pyb7xool5etkdej",
+    "passportId": "987654321",
+    "firstName": "tom",
+    "lastName": "cruise",
+    "balance": "0",
+    "credit": "100",
+    "transactions": []
+  },
+  {
+    "id": "eryk4bl40lbiggh1n",
+    "passportId": "998877665",
+    "firstName": "eli",
+    "lastName": "kopter",
+    "balance": "0",
+    "credit": "0",
+    "transactions": []
+  },
+  {
+    "id": "eryk4bgzslbih1c54",
+    "passportId": "159159159",
+    "firstName": "avi",
+    "lastName": "ron",
+    "balance": "1500",
+    "credit": "0",
+    "transactions": [],
+  },
+  {
+    "id": "eryk4bfaklbihce55",
+    "passportId": "159159159",
+    "firstName": "avi",
+    "lastName": "ron",
+    "balance": "0",
+    "credit": "0",
+    "transactions": []
+  }
+]
